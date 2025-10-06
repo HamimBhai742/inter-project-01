@@ -3,9 +3,9 @@ import React from 'react';
 const Reminder = () => {
   return (
     <div className='px-8'>
-      <h3 className='text-[#333333] text-center font-bold text-4xl'>
+      <h1 className='text-[#333333] text-center font-bold text-4xl'>
         ডেইলি রিমেইন্ডার
-      </h3>
+      </h1>
       <div className='my-6 flex gap-4'>
         <div className='border-2 border-[#737373] p-5 rounded-xl'>
           <figure>

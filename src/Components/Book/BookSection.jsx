@@ -3,9 +3,9 @@ import React from 'react';
 const BookSection = () => {
   return (
     <div>
-      <h3 className='text-[#333333] text-center font-bold text-4xl'>
+      <h1 className='text-[#333333] text-center font-bold text-4xl'>
         হাদিসের বইসমূহ
-      </h3>
+      </h1>
       <p className='text-gray-700 text-center mx-auto font-medium w-[650px] my-4 text-xl'>
         হাদিসের কিতাবগুলো মুসলিমদের জন্য হেদায়েত এবং অনুপ্রেরণার একটি
         গুরুত্বপূর্ণ উৎস। এই কিতাবগুলো মহানবী মুহাম্মদ (সাল্লাল্লাহু আলাইহি ওয়া
