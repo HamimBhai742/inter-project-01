@@ -41,19 +41,19 @@ const Footer = () => {
           <ul className='space-y-3'>
             <li className='flex text-lg text-[#626D7D] justify-between'>
               <span>আল হাদিস</span>
-              <img src='/public/image 7.png' alt='' />
+              <img src='/image 7.png' alt='' />
             </li>
             <li className='flex text-lg text-[#626D7D] justify-between'>
               <span>কুরআন মাজিদ</span>
-              <img src='/public/image 8.png' alt='' />
+              <img src='/image 8.png' alt='' />
             </li>
             <li className='flex text-lg text-[#626D7D] justify-between'>
               <span>দোয়া ও রুকাইয়াহ</span>
-              <img src='/public/image 9.png' alt='' />
+              <img src='/image 9.png' alt='' />
             </li>
             <li className='flex text-lg text-[#626D7D] justify-between'>
               <span>আইআরডি ফাউন্ডেশন</span>
-              <img src='/public/image 10.png' alt='' />
+              <img src='/image 10.png' alt='' />
             </li>
           </ul>
         </div>

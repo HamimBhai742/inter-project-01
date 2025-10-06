@@ -5,7 +5,7 @@ const Card = () => {
     <div className='bg-[#34AB821F] flex justify-between items-center rounded-lg py-4 pr-4 mx-14'>
       <div className='flex gap-4 items-center'>
         <figure className='-ml-14'>
-          <img src='/public/image 6.png' alt='' />
+          <img src='/image 6.png' alt='' />
         </figure>
         <p className='text-[#333333] text-2xl'>
           প্রতিদিন ইমেইলে হাদিস পেতে আমাদের সাবস্ক্রাইব করুন

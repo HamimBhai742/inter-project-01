@@ -20,7 +20,7 @@ const BookSection = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1.png' alt='' />
+            <img src='/Rectangle 1.png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76]  flex justify-between items-center rounded-lg p-3'>
@@ -31,7 +31,7 @@ const BookSection = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (1).png' alt='' />
+            <img src='/Rectangle 1 (1).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76]  flex justify-between items-center rounded-lg p-3'>
@@ -44,7 +44,7 @@ const BookSection = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (2).png' alt='' />
+            <img src='/Rectangle 1 (2).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76]  flex justify-between items-center rounded-lg p-3'>
@@ -57,7 +57,7 @@ const BookSection = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (3).png' alt='' />
+            <img src='/Rectangle 1 (3).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76] flex justify-between items-center rounded-lg p-3'>
@@ -70,7 +70,7 @@ const BookSection = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (4).png' alt='' />
+            <img src='/Rectangle 1 (4).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76]  flex justify-between items-center rounded-lg p-3'>
@@ -83,15 +83,15 @@ const BookSection = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (5).png' alt='' />
+            <img src='/Rectangle 1 (5).png' alt='' />
           </figure>
         </div>
       </div>
       <div className='flex justify-center mt-6'>
         <button className='bg-[#2B9E76] text-white flex items-center gap-2 px-4 py-3 rounded-lg'>
-          <img src='/public/Frame (3).svg' alt='' />
+          <img src='/Frame (3).svg' alt='' />
           <span>সকল হাদিস গ্রন্থসমূহ</span>
-          <img src='/public/Frame (4).svg' alt='' />
+          <img src='/Frame (4).svg' alt='' />
         </button>
       </div>
     </div>

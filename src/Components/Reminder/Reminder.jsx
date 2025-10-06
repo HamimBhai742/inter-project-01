@@ -9,7 +9,7 @@ const Reminder = () => {
       <div className='my-6 flex gap-4'>
         <div className='border-2 border-[#737373] p-5 rounded-xl'>
           <figure>
-            <img src='/public/Picture.png' alt='' />
+            <img src='/Picture.png' alt='' />
           </figure>
           <h4 className='text-[#333333] font-bold text-xl'>৪০ হাদিস</h4>
           <p className='text-gray-700 font-medium leading-7  mt-2 '>
@@ -23,7 +23,7 @@ const Reminder = () => {
         </div>
         <div className='border-2 border-[#737373] p-5 rounded-xl'>
           <figure>
-            <img src='/public/image 14.png' alt='' />
+            <img src='/image 14.png' alt='' />
           </figure>
           <h4 className='text-[#333333] font-bold text-xl'>আজকের দোয়া</h4>
           <p className='text-gray-700 font-medium  mt-2 leading-7 '>
@@ -35,7 +35,7 @@ const Reminder = () => {
         </div>
         <div className='border-2 border-[#737373] p-5 rounded-xl'>
           <figure>
-            <img src='/public/image 15.png' alt='' />
+            <img src='/image 15.png' alt='' />
           </figure>
           <h4 className='text-[#333333] font-bold text-xl'>আজকের হাদিস</h4>
           <p className='text-gray-700 font-medium  mt-2 leading-7'>

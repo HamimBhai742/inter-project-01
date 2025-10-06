@@ -22,7 +22,7 @@ const SubBasedHadis = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (6).png' alt='' />
+            <img src='/Rectangle 1 (6).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76]  flex justify-between items-center rounded-lg p-3'>
@@ -33,7 +33,7 @@ const SubBasedHadis = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (7).png' alt='' />
+            <img src='/Rectangle 1 (7).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76]  flex justify-between items-center rounded-lg p-3'>
@@ -44,7 +44,7 @@ const SubBasedHadis = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (8).png' alt='' />
+            <img src='/Rectangle 1 (8).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76]  flex justify-between items-center rounded-lg p-3'>
@@ -55,7 +55,7 @@ const SubBasedHadis = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (11).png' alt='' />
+            <img src='/Rectangle 1 (11).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76] flex justify-between items-center rounded-lg p-3'>
@@ -66,7 +66,7 @@ const SubBasedHadis = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (9).png' alt='' />
+            <img src='/Rectangle 1 (9).png' alt='' />
           </figure>
         </div>
         <div className='bg-[#EEF9F8] border-2 border-[#2B9E76]  flex justify-between items-center rounded-lg p-3'>
@@ -77,15 +77,15 @@ const SubBasedHadis = () => {
             </p>
           </div>
           <figure>
-            <img src='/public/Rectangle 1 (10).png' alt='' />
+            <img src='/Rectangle 1 (10).png' alt='' />
           </figure>
         </div>
       </div>
       <div className='flex justify-center mt-6'>
         <button className='bg-[#2B9E76] text-white flex items-center gap-2 px-4 py-3 rounded-lg'>
-          <img src='/public/Frame (5).svg' alt='' />
+          <img src='/Frame (5).svg' alt='' />
           <span>সকল ক্যাটাগরি দেখুন</span>
-          <img src='/public/Frame (4).svg' alt='' />
+          <img src='/Frame (4).svg' alt='' />
         </button>
       </div>
     </div>

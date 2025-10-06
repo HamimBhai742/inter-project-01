@@ -19,22 +19,22 @@ const HeroSection = () => {
         <h3 className='text-black font-bold text-2xl'>আল হাদিস মোবাইল আপ</h3>
         <div className=' mt-5'>
           <figure className='flex gap-4'>
-            <img src='/public/apple.svg' alt='' />
-            <img src='/public/Group.svg' alt='' />
+            <img src='/apple.svg' alt='' />
+            <img src='/Group.svg' alt='' />
           </figure>
         </div>
       </div>
       <div className='flex gap- overflow-clip'>
         <figure>
           <img
-            src='/public/bfb9ff06f064f11e516a25928ba8bb302d6b66f6.png'
+            src='/bfb9ff06f064f11e516a25928ba8bb302d6b66f6.png'
             alt=''
             className='w-[250px] h-[320px] -rotate-20 object-contain'
           />
         </figure>
         <figure>
           <img
-            src='/public/6d545d7ec6a36ad58c03aa14047a017c432a762a.png'
+            src='/6d545d7ec6a36ad58c03aa14047a017c432a762a.png'
             alt=''
             className='w-[220px] h-[320px] -rotate-20'
           />

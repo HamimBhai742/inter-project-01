@@ -11,11 +11,11 @@ const HeaderSection = () => {
           type='text'
         />
         <figure className='absolute top-4 left-2'>
-          <img src='/public/search.svg' alt='' />
+          <img src='/search.svg' alt='' />
         </figure>
 
         <figure className='absolute top-5 right-2/12'>
-          <img src='/public/sliders-horizontal.svg' alt='' />
+          <img src='/sliders-horizontal.svg' alt='' />
         </figure>
         <button className='bg-[#17B686] px-4 py-2 rounded-lg absolute top-3 right-3'>Search</button>
       </div>
