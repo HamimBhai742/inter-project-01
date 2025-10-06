@@ -2,6 +2,7 @@ import BookSection from '../../Components/Book/BookSection';
 import HeaderSection from '../../Components/HeaderSection/HeaderSection';
 import HeroSection from '../../Components/HeroSection/HeroSection';
 import Reminder from '../../Components/Reminder/Reminder';
+import Card from '../../Components/Securibe/Card';
 
 const Home = () => {
   return (
@@ -15,6 +16,9 @@ const Home = () => {
       </div>
       <div>
         <Reminder />
+      </div>
+      <div className='mt-8'>
+        <Card />
       </div>
     </div>
   );

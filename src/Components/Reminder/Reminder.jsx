@@ -39,10 +39,16 @@ const Reminder = () => {
           </figure>
           <h4 className='text-[#333333] font-bold text-xl'>আজকের হাদিস</h4>
           <p className='text-gray-700 font-medium  mt-2 leading-7'>
-           রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম) বলেছেন, ‘তোমাদের মধ্যে সে ব্যক্তিই সর্বপেক্ষা উত্তম, যে চরিত্রের দিক দিয়ে উত্তম’ (বুখারী, মুসলিম, মিশকাত হা/৫০৭৫)।
+            রাসূল (সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম) বলেছেন, ‘তোমাদের মধ্যে সে
+            ব্যক্তিই সর্বপেক্ষা উত্তম, যে চরিত্রের দিক দিয়ে উত্তম’ (বুখারী,
+            মুসলিম, মিশকাত হা/৫০৭৫)।
           </p>
-
         </div>
+      </div>
+      <div className='flex justify-center'>
+        <button className='border-2 text-lg font-medium border-[#066F4A] py-4 px-6 rounded-xl'>
+          আরো দেখুন...
+        </button>
       </div>
     </div>
   );
