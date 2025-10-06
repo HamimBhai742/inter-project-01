@@ -3,7 +3,7 @@ import React from 'react';
 const BookSection = () => {
   return (
     <div>
-      <h3 className='text-[#333333] text-center font-bold text-2xl'>
+      <h3 className='text-[#333333] text-center font-bold text-4xl'>
         হাদিসের বইসমূহ
       </h3>
       <p className='text-gray-700 text-center mx-auto font-medium w-[650px] my-4 text-xl'>

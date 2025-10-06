@@ -2,7 +2,7 @@ import React from 'react';
 
 const HeaderSection = () => {
   return (
-    <section className='bg-[#17B686] min-h-[174px] max-w-[1440px]'>
+    <section className='bg-[#17B686] min-h-[174px]'>
       <div className='flex justify-center py-6'>
         <div className='  mx-auto relative rounded-lg'>
         <input
