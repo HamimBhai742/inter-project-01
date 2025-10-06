@@ -1,3 +1,4 @@
+import Alem from '../../Components/Alem/Alem';
 import BookSection from '../../Components/Book/BookSection';
 import HeaderSection from '../../Components/HeaderSection/HeaderSection';
 import HeroSection from '../../Components/HeroSection/HeroSection';
@@ -23,6 +24,9 @@ const Home = () => {
       </div>
       <div className='mt-8'>
         <SubBasedHadis />
+      </div>
+      <div className='mt-8'>
+        <Alem />
       </div>
     </div>
   );
