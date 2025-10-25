@@ -2,6 +2,8 @@
 
 A modern Islamic educational platform built with React, focused on Hadis literature and religious content.
 
+🌐 **Live Demo**: [https://al-hadis-742.netlify.app](https://al-hadis-742.netlify.app)
+
 ## Features
 
 - **Hadis Collection**: Browse and search Islamic Hadis literature
